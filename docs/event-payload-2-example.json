@@ -1,0 +1,42 @@
+{
+    "version": "2.0",
+    "routeKey": "GET /deco",
+    "rawPath": "/deco",
+    "rawQueryString": "qs=query-string",
+    "headers": {
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br",
+        "content-length": "24",
+        "content-type": "application/json",
+        "host": "fyy8m30ho6.execute-api.us-east-1.amazonaws.com",
+        "postman-token": "8ebe4bc6-5f04-44a7-a81b-04e023a5f000",
+        "user-agent": "PostmanRuntime/7.26.1",
+        "x-amzn-trace-id": "Root=1-5f088c95-5b5ebaf8792c1c405bf06418",
+        "x-forwarded-for": "186.18.152.55",
+        "x-forwarded-port": "443",
+        "x-forwarded-proto": "https"
+    },
+    "queryStringParameters": {
+        "qs": "query-string"
+    },
+    "requestContext": {
+        "accountId": "690899313230",
+        "apiId": "fyy8m30ho6",
+        "domainName": "fyy8m30ho6.execute-api.us-east-1.amazonaws.com",
+        "domainPrefix": "fyy8m30ho6",
+        "http": {
+            "method": "GET",
+            "path": "/deco",
+            "protocol": "HTTP/1.1",
+            "sourceIp": "186.18.152.55",
+            "userAgent": "PostmanRuntime/7.26.1"
+        },
+        "requestId": "PdrnWh_oIAMESVQ=",
+        "routeKey": "GET /deco",
+        "stage": "$default",
+        "time": "10/Jul/2020:15:43:17 +0000",
+        "timeEpoch": 1594395797332
+    },
+    "body": "{\n    \"field\": \"value\"\n}",
+    "isBase64Encoded": false
+}
